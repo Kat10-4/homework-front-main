@@ -10,7 +10,7 @@ export type UserType = {
     address: AddressType
 };
 
- type UserListPropsType = {
+type UserListPropsType = {
     users: UserType[];
 };
 
